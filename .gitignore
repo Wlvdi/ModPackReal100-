@@ -1,0 +1,30 @@
+# Archivos temporales
+logs/
+crash-reports/
+downloads/
+saves/
+.cache/
+
+# Archivos de usuario
+options.txt
+usercache.json
+usernamecache.json
+command_history.txt
+
+# Archivos Java
+hs_err_pid*
+replay_pid*
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+Thumbs.db
+.DS_Store
+
+# Mantener estos directorios
+!mods/
+!config/
+!defaultconfigs/
+!resourcepacks/
