@@ -1,0 +1,29 @@
+#Fangs 'n Claws — Common Configuration
+[spawn_toggles]
+	#Enable or disable natural spawning for each mob. Can also be controlled per-world via /gamerule.
+	#Allow Goblins to spawn naturally (overworld, night only)
+	allow_goblin = true
+	#Allow Ogres to spawn naturally (overworld)
+	allow_ogre = true
+	#Allow Cave Ogres to spawn naturally (caves)
+	allow_cave_ogre = true
+	#Allow Big Golems to spawn naturally (plains)
+	allow_golem = true
+	#Allow Owlbears to spawn naturally (forest)
+	allow_owlbear = true
+	#Allow Silver Skeletons to spawn naturally (overworld)
+	allow_silver_skeleton = true
+	#Allow Evil Bats to spawn naturally (overworld)
+	allow_evil_bat = true
+	#Allow Ghosts to spawn naturally (overworld + Soul Sand Valley)
+	allow_ghost = true
+	#Allow Werewolves to spawn naturally (overworld)
+	allow_werewolf = true
+	#Allow Dart Goblins to spawn naturally (overworld, night only)
+	allow_dart_goblin = true
+	#Allow Imps to spawn naturally (nether, any biome)
+	allow_imp = true
+	#Allow Hell Ogres to spawn naturally (nether)
+	allow_hell_ogre = true
+	#Allow Scorpions to spawn naturally (overworld)
+	allow_scorpion = true
