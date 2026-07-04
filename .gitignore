@@ -29,4 +29,7 @@ Thumbs.db
 !mods/
 !config/
 !defaultconfigs/
-!resourcepacks/
+!resourcepacks/"minecraftinstance.json" 
+"config/sodium-fingerprint.json" 
+"config/sodium-options.json" 
+"config/jei/" 
