@@ -4,12 +4,14 @@ crash-reports/
 downloads/
 saves/
 .cache/
+xaero/
 
 # Archivos de usuario
 options.txt
 usercache.json
 usernamecache.json
 command_history.txt
+minecraftinstance.json
 
 # Archivos Java
 hs_err_pid*
