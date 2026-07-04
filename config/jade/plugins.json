@@ -66,14 +66,6 @@
     "entity": true,
     "entity_variant": true
   },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
-  },
-  "pipez": {
-    "pipe": true
-  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -88,16 +80,28 @@
   "apotheosis": {
     "adventure": true
   },
-  "waystones": {
-    "waystone": true
-  },
-  "corpse": {
-    "corpse": true
-  },
   "balm": {
     "jade": true
   },
   "apothic_enchanting": {
     "ench": true
+  },
+  "exposure": {
+    "lightroom": true,
+    "photograph_frame": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "pipez": {
+    "pipe": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }

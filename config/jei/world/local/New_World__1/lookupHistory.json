@@ -1,0 +1,4 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tiab:time_in_a_bottle","components":{"tiab:stored_time":{"stored":20,"total":20},"minecraft:lore":["{\"color\":\"green\",\"translate\":\"item.tiab.time_in_a_bottle.tooltip.stored_time\",\"with\":[\"00\",\"00\",\"01\"]}","{\"color\":\"gray\",\"translate\":\"item.tiab.time_in_a_bottle.tooltip.total_accumulated_time\",\"with\":[\"00\",\"00\",\"01\"]}"]}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
